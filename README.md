@@ -49,3 +49,18 @@ Visual design choices :
 | Layout            | Boxed sections, consistent margins, mobile-responsive grid                  |
 | Navigation        | Top horizontal nav bar with clear labels for each section                   |
 | Visual Hierarchy  | Headings, subheadings, and visuals to guide users through pages             |
+
+WIREFRAMES FOR EACH PAGE : 
+
+HOME PAGE : 
+
+About Us:
+
+Meet the developers : 
+
+Job specs : 
+
+Apply now : 
+
+courses page : 
+
