@@ -2,7 +2,7 @@ Unit 15: Website Development
 
 Assignment title: Design and develop a website
 
-SCENARIO:
+SCENARIO:  
 
 You have recently joined a web development company, Hot
 Beans Web as a junior web developer. You have been asked
@@ -62,5 +62,7 @@ Job specs :
 
 Apply now : 
 
-courses page : 
+courses page :  
+
+
 
