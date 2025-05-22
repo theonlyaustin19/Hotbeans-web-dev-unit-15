@@ -188,3 +188,4 @@ https://theonlyaustin19.github.io/hotbeans/
 | 5        | Android Chrome Browser         | Fully functional, form and links work                    | All features tested and working                      | Pass   | Touch elements responsive                  |
 | 6        | Tablet (iPad, landscape)       | Layout adjusts, no overlap, easy to navigate             | Content fits screen well, easy to interact with      |  Pass   | Good spacing and font size                |
 | 7        | Screen resized (desktop test)  | Content stacks properly, nothing overlaps or breaks      | Responsive layout adapts correctly                   |  Pass   | Nav converts into mobile menu when small  |
+
