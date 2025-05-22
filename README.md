@@ -238,3 +238,91 @@ The Courses page contains links to relevant training content, which addresses th
 
 Each decision was with the goal of meeting user requirements  providing a clean, uncluttered, mobile-centric experience that invites users to participate  and checking it off on the client's requirement. The final product is not only a recruitment tool but also a revenue to showcase Hot Beans Web in the best and most desirable light.
 
+## M3 Optimise a website to meet client requirements.
+
+
+###  Performance Optimisation
+- **Compressed Images**: All wireframe and page images were optimised using online tools (e.g. TinyPNG) to reduce file size without losing quality improving loading speed.
+- **Minified CSS & JavaScript**: Stylesheets and scripts were cleaned and minified to reduce file size and increase load speed.
+- **Used Lazy Loading**: Images (especially in “Meet the Developers”) were set to load only when scrolled into view, improving initial page performance.
+
+###  Device & Screen Optimisation
+- **Responsive Design**: All pages were tested and adjusted using media queries to work on mobile, tablet, and desktop.
+- **Flexible Layouts**: The use of CSS Grid and Flexbox ensured that content adjusts gracefully to different screen sizes.
+- **Viewport Meta Tag**: Added to ensure correct scaling on mobile devices.
+
+### 👁 Accessibility Improvements
+- **Alt Text**: All images include descriptive `alt` tags for screen reader support.
+- **Readable Fonts & Contrast**: High contrast color combinations and large, readable sans-serif fonts (e.g., Roboto) were used for clarity.
+- **Keyboard Navigation**: Form elements and navigation links are fully accessible via keyboard.
+
+###  Navigation & User Experience
+- **Consistent Top Navigation Bar**: Makes it easy for users to switch pages from any section of the site.
+- **Clear Page Headings**: Each page starts with a visible title or header to orient the user.
+- **CTA Buttons**: “Apply Now” and other call-to-action buttons were made prominent with hover effects to encourage interaction.
+
+###  Alignment with Client Goals
+- The site loads quickly and is user-friendly on all common devices meeting the client's aim to attract and recruit web developers effectively.
+- Accessibility updates ensure the site is inclusive to all users, improving its professionalism.
+- All core features (job specs, developer profiles, application form, course links) work smoothly  fully meeting the brief’s technical and content requirements.
+
+## D2 Evaluate the design and optimised website against client requirements.
+
+
+
+The website was created for Hot Beans Web with the goal of promoting the company to aspiring web developers and encouraging them to apply for job roles. 
+
+
+###  Client Requirement: A Profile of the Company
+- was this met?  Yes  
+
+- **Evaluation:**  
+
+  The About Us page gives a detailed overview of the company’s history, values, and work culture. It effectively promotes the company to potential applicants and presents a welcoming, professional image.
+
+
+
+###  Client Requirement: Profiles of Existing Trainee Web Developers
+- was this met?  Yes  
+- **Evaluation:**  
+
+  The Meet the Developers page showcases trainee developers with names, photos, bios, and listed skills. The layout is visually appealing, and hover effects enhance user interaction.
+
+
+
+###  Client Requirement: Job Specifications 
+- was this met?  Yes  
+- **Evaluation:**  
+
+   The Job Specs page outlines various roles available at Hot Beans Web, along with the required skills and qualifications. The information is structured clearly, making it easy for users to understand what’s expected of them.
+
+
+
+###  Client Requirement: An Online Application Form
+- was this met?  Yes  
+- **Evaluation:**  
+
+   The Apply Now page contains a fully functional online form that collects name, email, CV upload, and a cover letter. The form was tested for validation and accessibility and works across devices.
+
+
+
+###  Client Requirement: Links to Web Development Courses
+- was this met?  Yes  
+- **Evaluation:**  
+
+  The *Courses Page* includes useful links to online web development training. Logos and short descriptions make the resources attractive and accessible to users seeking to improve their skills.
+
+
+
+
+
+- **Design Quality:** The visual design uses modern fonts, a clean layout, and a consistent color scheme that reinforces professionalism and trust which alignins with the client's branding goals.
+- **Performance:** The website was optimised for fast loading, including image compression and code minimisation. Lazy loading improved page speed, especially for mediav heavy pages.
+- **Responsiveness & Compatibility:** The site performs well on mobile, tablet, and desktop, with layouts adjusting properly due to responsive CSS techniques.
+- **Accessibility:** Alt text, keyboard navigation, and readable font choices ensure the site is inclusive to all users.
+
+
+###  Overall evaluation 
+The final website successfully meets all the client’s requirements. It presents Hot Beans Web as a professional and attractive workplace, provides all essential recruitment features, and ensures a positive experience for its target audience of aspiring web developers. 
+
+
