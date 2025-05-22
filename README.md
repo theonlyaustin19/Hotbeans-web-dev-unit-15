@@ -189,3 +189,52 @@ https://theonlyaustin19.github.io/hotbeans/
 | 6        | Tablet (iPad, landscape)       | Layout adjusts, no overlap, easy to navigate             | Content fits screen well, easy to interact with      |  Pass   | Good spacing and font size                |
 | 7        | Screen resized (desktop test)  | Content stacks properly, nothing overlaps or breaks      | Responsive layout adapts correctly                   |  Pass   | Nav converts into mobile menu when small  |
 
+##  Usability Testing
+
+| Test No. | Area Tested                  | Expected Outcome                                               | Actual Outcome                                             | Pass/Fail | Notes                                                  |
+|----------|------------------------------|----------------------------------------------------------------|-------------------------------------------------------------|-----------|----------------------------------------------------------|
+| 1        | Navigation clarity           | Users should find it easy to move between pages                |  users navigated smoothly                              |  Pass   | Top nav bar with clear labels helped a lot             |
+| 2        | Form ease-of-use             | Users should be able to fill and submit the form without confusion | All users completed the form easily                        |  Pass   | Fields were clearly labeled                            |
+| 3        | Content readability          | Text should be easy to read and understand                     | Font size and color contrast were clear                    |  Pass   | Used sans-serif font for readability                   |
+| 4        | Visual design consistency    | Design should feel professional and consistent across pages    | All pages followed the same layout and color scheme        |  Pass   | Headers, spacing, and style matched throughout         |
+| 5        | Mobile usability             | Users should be able to access and use the site on phones      | Mobile experience smooth and touch-friendly                | Pass   | Responsive layout tested on iPhone and Android         |
+| 
+
+## P6 :Review the extent to which the website meets client requirements.
+
+## Review: How Well the Website Meets Client Requirements
+
+| Client Requirement                                      | How It Was Met                                                                                   | Evidence or Feature Implemented                    |
+|---------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| Profile of the company                                  | An **About Us** page was created that explains the company’s history, mission, and work culture | "About Us" section on website                      |
+| Profiles of existing trainee web developers             | A **Meet the Developers** page displays profiles, including name, photo, bio, and skills         | Developer cards with hover effects                |
+| Job specifications          | A **Job Specs** page outlines roles, and responsibilities                        | Job descriptions listed clearly in structured layout |
+| Online application form                                 | The **Apply Now** page includes fields for name, email, file upload, and cover letter            | Fully working HTML form with submit function      |
+| Links to web development courses                        | A **Courses** page contains logos and links to relevant training programs                         | Course links open in new tab                      |
+| Aimed at newly trained web developers                   | The tone, design, and language are friendly and clear for junior web developers                   | Simple, modern design with helpful layout          |
+| Professional and easy-to-navigate website               | A clean, responsive layout with a top navigation bar and consistent design                        | All pages follow the same visual design theme     |
+
+## M2 Justify the design decisions, explaining how they will meet the use needs and be fit for purpose.
+
+The site was designed to fulfill the needs of the client and also those of the target audience  recently qualified web developers looking for employment. Each design decision was tied to some aspect of the client brief so that the site is useful and meaningful.
+
+A top navigation bar was employed to fulfill the client's request for simplicity of navigation. Such an arrangement enables users to move smoothly from one page to another, such as About Us, Apply Now, and Meet the Developers, which are all required pages in the brief.
+
+Responsive design assures cross-platform compatibility on desktop, tablet, and mobile usage. This speaks specifically to the demand for the site to be accessible by users on phones or tablets.
+
+The color scheme  light background and blue details  was chosen to make the website professional and welcoming. This complies with the client's requirement of promoting Hot Beans Web as a desirable company for potential developers.
+
+The home page hero banner with the tagline "dream it. code it. live it" contains a call to action asking users to browse around the company and apply. This is consistent with the requirement of recruiting and hiring new web developers.
+
+The About Us page is completing the need for a company profile. The page gives background on Hot Beans Web, its mission, and company work culture so that the candidates can learn about the employer.
+
+The Meet the Developers page is completing the need to introduce current trainee web developers. With pictures, bios, and skills, the page helps visitors see actual individuals in their role, and they can imagine themselves working at the company.
+
+The Job Specs page outlines the necessity of detailing job roles and qualifications. Every role has a well defined and structured format, bullet points detailing skill and application process.
+
+An online application form was added to the Apply Now page to fulfill the client's need for a tool for collecting job applications. The form has all the necessary fields  name, email, upload file for CV, and cover letter textarea  in order to make a complete submission.
+
+The Courses page contains links to relevant training content, which addresses the requirement of having links to web development courses. This is a benefit to users who are yet to develop their skills.
+
+Each decision was with the goal of meeting user requirements  providing a clean, uncluttered, mobile-centric experience that invites users to participate  and checking it off on the client's requirement. The final product is not only a recruitment tool but also a revenue to showcase Hot Beans Web in the best and most desirable light.
+
