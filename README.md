@@ -141,7 +141,7 @@ Visual design choices :
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/df63eb94-5672-436c-9d6d-4874bdee331a" />
 
-## Areas for imprpvment and changes made 
+
 
 ##  Areas for Improvement & Changes Made
 
@@ -162,3 +162,29 @@ The feedback helped me improve  usability, structure, and visual appeal across t
 https://theonlyaustin19.github.io/hotbeans/
 
 ## P5 Test the website for functionality, compatibility and usability.
+
+## Functionality : 
+
+
+| Test No. | Feature Being Tested         | Expected Outcome                                          | Actual Outcome                                           | Pass/Fail | comments                                  |
+|----------|------------------------------|------------------------------------------------------------|-----------------------------------------------------------|-----------|----------------------------------------|
+| 1        | Navigation links (Home, About Us, etc.) | Clicking links should take the user to the correct page         | All navigation links work as expected                     |  Pass   | No broken links                        |
+| 2        | Apply Now form submission     | Form submits and shows a confirmation message              | Form resets after submission              |  fail   | Tested with sample input               |
+| 3        | CV file upload                | Users should be able to upload a file (PDF or DOCX)                      | File uploads successfully                                 |  Pass   | Upload works, no file size validation  |
+| 4        | Submit button on application form | Clicking submits the form and clears the inputs           | Form resets after submission                              |  Pass   | Button functioning as intended         |
+| 5        | External course links         | Clicking links opens correct external training websites    | Links open in new tabs and direct to correct pages        |  Pass   | All external links are functional      |
+| 6        | Developer profile interactivity | Hovering shows effect or additional info (if included)     | Hover effect works as intended                            |  Pass   | Visual effects appear on hover         |
+
+## Compatibility testing 
+
+
+
+| Test No. | Platform/Browser/Device        | Expected Outcome                                        | Actual Outcome                                      | Pass/Fail | Notes                                      |
+|----------|--------------------------------|----------------------------------------------------------|------------------------------------------------------|-----------|--------------------------------------------|
+| 1        | Google Chrome (Desktop)        | Site loads correctly, all features work                  | Everything works as expected                         |  Pass   | Primary browser tested                     |
+| 2        | Mozilla Firefox (Desktop)      | Site fully functional, consistent appearance             | All features work, slight font variation             |  Pass   | Minor visual difference                    |
+| 3        | Microsoft Edge (Desktop)       | No layout issues, all interactive elements work          | Site functions properly                              |  Pass   |                                            |
+| 4        | Safari (iPhone)                | Responsive layout, menus and content adjust properly     | Site is responsive and user-friendly on mobile       |  Pass   | Hamburger menu tested                      |
+| 5        | Android Chrome Browser         | Fully functional, form and links work                    | All features tested and working                      | Pass   | Touch elements responsive                  |
+| 6        | Tablet (iPad, landscape)       | Layout adjusts, no overlap, easy to navigate             | Content fits screen well, easy to interact with      |  Pass   | Good spacing and font size                |
+| 7        | Screen resized (desktop test)  | Content stacks properly, nothing overlaps or breaks      | Responsive layout adapts correctly                   |  Pass   | Nav converts into mobile menu when small  |
