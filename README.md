@@ -251,7 +251,7 @@ Each decision was with the goal of meeting user requirements  providing a clean,
 - **Flexible Layouts**: The use of CSS Grid and Flexbox ensured that content adjusts gracefully to different screen sizes.
 - **Viewport Meta Tag**: Added to ensure correct scaling on mobile devices.
 
-### 👁 Accessibility Improvements
+###  Accessibility Improvements
 - **Alt Text**: All images include descriptive `alt` tags for screen reader support.
 - **Readable Fonts & Contrast**: High contrast color combinations and large, readable sans-serif fonts (e.g., Roboto) were used for clarity.
 - **Keyboard Navigation**: Form elements and navigation links are fully accessible via keyboard.
