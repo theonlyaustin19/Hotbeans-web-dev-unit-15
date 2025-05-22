@@ -1,8 +1,8 @@
-Unit 15: Website Development
+## Unit 15: Website Development
 
-Assignment title: Design and develop a website
+## Assignment title: Design and develop a website
 
-SCENARIO:  
+## SCENARIO:  
 
 You have recently joined a web development company, Hot
 Beans Web as a junior web developer. You have been asked
@@ -27,9 +27,9 @@ completed training courses or qualifications related to web
 development and are now looking for a job as a web
 developer.
 
-P2: Produce designs for a website that meet client requirements.
+## P2: Produce designs for a website that meet client requirements.
 
-Page layouts (Wirefram structure)
+## Page layouts (Wirefram structure)
 
 | Page               | Purpose                             | Design Features                                                                 |
 |--------------------|-------------------------------------|----------------------------------------------------------------------------------|
@@ -50,44 +50,44 @@ Visual design choices :
 | Navigation        | Top horizontal nav bar with clear labels for each section                   |
 | Visual Hierarchy  | Headings, subheadings, and visuals to guide users through pages             |
 
-WIREFRAMES FOR EACH PAGE : 
+## WIREFRAMES FOR EACH PAGE : 
 
-HOME PAGE : 
+## HOME PAGE : 
 
 <img width="652" alt="image" src="https://github.com/user-attachments/assets/c81e1019-2743-43b6-afb3-b87e14b2f966" />
 
 
-About Us:
+## About Us:
 
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/80d78fe6-5382-46bb-813c-ca23950a3a70" />
 
 
-Meet the developers :
+## Meet the developers :
 
 <img width="299" alt="image" src="https://github.com/user-attachments/assets/13eb5cec-88af-4fe2-9310-9cc6af2a6603" />
 
 
-Job specs : 
+## Job specs : 
 
 <img width="178" alt="image" src="https://github.com/user-attachments/assets/b904ebe8-d791-4aa4-a8ef-435a75547133" />
 
 
-Apply now : 
+## Apply now : 
 
 <img width="215" alt="image" src="https://github.com/user-attachments/assets/7e592035-0889-4af2-a9cd-83bfcd9f0cfd" />
 
 
-courses page : 
+## courses page : 
 
 <img width="157" alt="image" src="https://github.com/user-attachments/assets/d5194614-de09-413e-a6dd-8b0d6f17f641" />
 
 
 
-Alternative designs : 
+## Alternative designs : 
 
  Description :   This version of the home page uses a horizontal navigation bar at the bottom instead of the top, with a full-width image banner and a welcome message overlay. Instead of individual content sections, it uses a slider to show "Meet the Developers", "Apply Now", and "Courses" as rotating cards.
 
- Design features :
+##  Design features :
 
 ● Bottom nav bar: Home | About Us | Apply Now | Meet the Developers
 
@@ -143,7 +143,7 @@ Alternative designs :
 
 ## Areas for imprpvment and changes made 
 
-## 🛠️ Areas for Improvement & Changes Made
+##  Areas for Improvement & Changes Made
 
 | Feedback Given                                                                 | Change Made                                                                                  |
 |--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
@@ -153,6 +153,12 @@ Alternative designs :
 |      |
 | Courses page appeared basic and lacked trust signals                           | I added course descriptions and included official logos for each course provider              |
 
+## Evaluation : 
 
+The feedback helped me improve  usability, structure, and visual appeal across the website. The changes made were simple but well improved the user journey, making the design more intuitive and engaging. 
 
+## P4 Produce a website for an intended audience and purpose.
 
+https://theonlyaustin19.github.io/hotbeans/
+
+## P5 Test the website for functionality, compatibility and usability.
