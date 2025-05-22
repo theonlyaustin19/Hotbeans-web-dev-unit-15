@@ -326,3 +326,70 @@ The website was created for Hot Beans Web with the goal of promoting the company
 The final website successfully meets all the client’s requirements. It presents Hot Beans Web as a professional and attractive workplace, provides all essential recruitment features, and ensures a positive experience for its target audience of aspiring web developers. 
 
 
+## D3 Demonstrate individual responsibility, creativity and effective self management in the design, development and review of a website.
+
+
+The project took 9 weeks and here is a breakdown of every activity carried out by me 
+
+| Week     | Task                                       | Description                                                                 |
+|----------|--------------------------------------------|-----------------------------------------------------------------------------|
+| Week 1   | Project Planning & Requirement Gathering   | Analysed the client brief, user needs, and planned content requirements     |
+| Week 2   | Created Wireframes and  Initial Designs       | Designed visual layouts for each page using Draw.io                         |
+| Week 3   | Explored Alternative Designs & Documentation| Proposed alternate layouts and wrote technical documentation                |
+| Week 4   | Content Writing & Asset Sourcing           | Wrote page content and sourced appropriate visuals/icons/fonts              |
+| Week 5   | Page Development (HTML/CSS)                | Built pages with responsiveness and accessibility in mind                   |
+| Week 6   | Peer Feedback & Revisions                  | Collected peer feedback and improved designs based on suggestions           |
+| Week 7   | Testing Phase                              | Conducted functionality, compatibility, and usability tests                 |
+| Week 8   | Optimisation & Final Adjustments           | Improved performance, visual clarity, and accessibility                     |
+| Week 9   | Final Evaluation & Documentation           | Reviewed site vs. client requirements and completed final reflections       |
+
+
+
+## Individual Responsibility
+
+- I managed my entire workflow independently.
+- Created a clear timeline and tracked progress weekly.
+- Used GitHub to manage version control and document updates.
+- Took initiative to research techniques (accessibility, layout best practices, responsive design).
+- Delivered each milestone on schedule without external pressure.
+
+
+
+##  Creativity in Design
+
+- Designed a **hero banner** with the tagline: _“Dream it. Code it. Live it.”_
+- Used **developer profile cards** with hover effects for interactivity.
+- Created a **clean, box-based layout** to help users scan content easily.
+- Explored alternative ideas like **carousels and bottom navs**, documented pros/cons, and selected the most user-friendly option.
+- Balanced professionalism with visual appeal using color, whitespace, and structure.
+
+
+
+##  Self-Management
+
+- I Created a checklist of tasks for each week and tracked what was complete.
+- I prioritised feedback and improvements throughout the build.
+- I documented all changes in markdown files and comments within code.
+- I used GitHub as a central hub for storing visual mockups, code, and evaluations.
+- I regularly tested the site during development rather than waiting until the end.
+
+
+
+## Design Review and Iteration
+
+- Asked peers to review my wireframes and final layouts.
+- Improvements made:
+  - I increased **font size** and **contrast** for better readability.
+  - I simplified **About Us** page for easier scanning.
+  - I improved form spacing and structure on **Apply Now** page.
+  - I replaced heavy images with **compressed formats** for faster load times.
+
+
+
+
+I have demonstrated:
+
+- **Responsibility:** Handled all tasks independently and professionally.
+- **Creativity:** Developed engaging and accessible pages using original ideas.
+- **Self-Management:** Stayed on track with consistent progress and proactive problem-solving.
+
