@@ -54,15 +54,77 @@ WIREFRAMES FOR EACH PAGE :
 
 HOME PAGE : 
 
+<img width="652" alt="image" src="https://github.com/user-attachments/assets/c81e1019-2743-43b6-afb3-b87e14b2f966" />
+
+
 About Us:
 
-Meet the developers : 
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/80d78fe6-5382-46bb-813c-ca23950a3a70" />
+
+
+Meet the developers :
+
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/13eb5cec-88af-4fe2-9310-9cc6af2a6603" />
+
 
 Job specs : 
 
+<img width="178" alt="image" src="https://github.com/user-attachments/assets/b904ebe8-d791-4aa4-a8ef-435a75547133" />
+
+
 Apply now : 
 
-courses page :  
+<img width="215" alt="image" src="https://github.com/user-attachments/assets/7e592035-0889-4af2-a9cd-83bfcd9f0cfd" />
+
+
+courses page : 
+
+<img width="157" alt="image" src="https://github.com/user-attachments/assets/d5194614-de09-413e-a6dd-8b0d6f17f641" />
 
 
 
+Alternative designs : 
+
+ Description :   This version of the home page uses a horizontal navigation bar at the bottom instead of the top, with a full-width image banner and a welcome message overlay. Instead of individual content sections, it uses a slider to show "Meet the Developers", "Apply Now", and "Courses" as rotating cards.
+
+ Design features :
+
+Bottom nav bar: Home | About Us | Apply Now | Meet the Developers
+
+sliders can hide key info and may reduce accessibility.
+
+Less efficient for users who want to jump directly to the info they need.
+
+Why It Was Not Chosen:
+
+The bottom nav is less intuitive as users are more familiar with top navigation.
+
+Carousels can hide key info and may reduce accessibility.
+
+Less efficient for users who want to jump directly to the info they need.
+
+Technical Documentation:
+ 
+  Site Structure:
+
+ index.html → Homepage
+
+about.html → About Us
+
+developers.html → Meet the Developers
+
+apply.html → Apply Now
+
+Tools & Technologies:
+
+HTML5 for page structure
+
+CSS3 for layout and styling
+
+draw.io for wireframes
+
+GitHub to host version-controlled files
+
+VS Code or similar code editor
+
+Responsive layout designed for desktop, tablet, and mobile
