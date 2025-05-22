@@ -33,10 +33,10 @@ Page layouts (Wirefram structure)
 
 | Page               | Purpose                             | Design Features                                                                 |
 |--------------------|-------------------------------------|----------------------------------------------------------------------------------|
-| Home Page          | Welcomes and introduces users       | Hero banner with "Join Our Team", nav menu, call to action                       |
+| Home Page          | Welcomes and introduces users       | Hero banner with "dream it. code it. live it ", nav menu, call to action                       |
 | About Us           | Company profile                     | Text section on company history, mission, and work culture                       |
 | Meet the Developers| Profiles of trainees                | Cards with photo, name, bio, skills; hover effects planned                       |
-| Job Specs          | Job roles and requirements          | Table layout showing roles, required skills, application steps                   |
+| Job Specs          | Job roles and requirements          |  layout showing roles, required skills, application steps                   |
 | Apply Now          | Online application form             | Name, email, CV upload, textarea for cover letter, Submit button                |
 | Courses Page       | Useful links to web dev training    | Logos/links to courses with short descriptions                                   |
 
@@ -89,42 +89,70 @@ Alternative designs :
 
  Design features :
 
-Bottom nav bar: Home | About Us | Apply Now | Meet the Developers
+● Bottom nav bar: Home | About Us | Apply Now | Meet the Developers
 
-sliders can hide key info and may reduce accessibility.
+● sliders can hide key info and may reduce accessibility.
 
-Less efficient for users who want to jump directly to the info they need.
+● Less efficient for users who want to jump directly to the info they need.
 
-Why It Was Not Chosen:
+## Why It Was Not Chosen:
 
-The bottom nav is less intuitive as users are more familiar with top navigation.
+● The bottom nav is less intuitive as users are more familiar with top navigation.
 
-Carousels can hide key info and may reduce accessibility.
+● Carousels can hide key info and may reduce accessibility.
 
-Less efficient for users who want to jump directly to the info they need.
+● Less efficient for users who want to jump directly to the info they need.
 
-Technical Documentation:
+## Technical Documentation:
  
-  Site Structure:
+ ##  Site Structure:
 
- index.html → Homepage
+● index.html → Homepage
 
-about.html → About Us
+● about.html → About Us
 
-developers.html → Meet the Developers
+● developers.html → Meet the Developers
 
-apply.html → Apply Now
+● apply.html → Apply Now
 
-Tools & Technologies:
+## Tools & Technologies:
 
-HTML5 for page structure
+● HTML5 for page structure
 
-CSS3 for layout and styling
+● CSS3 for layout and styling
 
-draw.io for wireframes
+● draw.io for wireframes
 
-GitHub to host version-controlled files
+● GitHub to host version-controlled files
 
-VS Code or similar code editor
+● VS Code or similar code editor
 
-Responsive layout designed for desktop, tablet, and mobile
+● Responsive layout designed for desktop, tablet, and mobile
+
+
+## P3 Review the website design proposals with others to identify and inform
+## improvements.
+
+## Emails : 
+
+<img width="605" alt="image" src="https://github.com/user-attachments/assets/c5708caa-e0a4-4259-93fb-fa33fcc844a2" />
+
+## response 
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/df63eb94-5672-436c-9d6d-4874bdee331a" />
+
+## Areas for imprpvment and changes made 
+
+## 🛠️ Areas for Improvement & Changes Made
+
+| Feedback Given                                                                 | Change Made                                                                                  |
+|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| The navigation bar may feel cramped on smaller screens                         |I added a mobile-friendly hamburger menu for better navigation on phones and tablets          |
+| Developer profiles looked too plain                                            | I included hover effects and added skill badges (e.g., HTML, CSS, JavaScript)                 |
+|    |
+|      |
+| Courses page appeared basic and lacked trust signals                           | I added course descriptions and included official logos for each course provider              |
+
+
+
+
